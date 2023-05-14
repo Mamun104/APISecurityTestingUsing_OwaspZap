@@ -85,10 +85,9 @@ hardware security, etc.) and any mitigation steps for those risks.
 ![z2](https://github.com/Mamun104/APISecurityTestingUsing_OwaspZap/assets/78067017/fc48a5e7-2780-4337-92be-9748a4a04f33)
 
 
-## Output 
+## Output:
 
-
-![Screenshot_1](https://github.com/Mamun104/APISecurityTestingUsing_OwaspZap/assets/78067017/690b25ec-5b6e-488b-a2cb-ccf367bc173d)
+![Screenshot_1](https://github.com/Mamun104/APISecurityTestingUsing_OwaspZap/assets/78067017/a11c2232-4989-45b8-816d-ac860ac0257d)
 
 
 ![Screenshot_2](https://github.com/Mamun104/APISecurityTestingUsing_OwaspZap/assets/78067017/578cd28f-f805-4e78-8525-c94c51d2e27b)
